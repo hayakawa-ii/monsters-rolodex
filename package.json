@@ -2,7 +2,7 @@
   "name": "monsters-rolodex",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/hayakawa-ii/monsters-rolodex",
+  "homepage": "https://hayakawa-ii.github.io/monsters-rolodex",
   "dependencies": {
     "@material-ui/core": "^4.0.0-rc.0",
     "@testing-library/jest-dom": "^4.2.4",
